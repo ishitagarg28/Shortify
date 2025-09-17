@@ -38,7 +38,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akarsh2012/Shortify.git
+   https://github.com/ishitagarg28/Shortify.git
 2. Install Dependencies
    ```bash
    npm install
